@@ -1,6 +1,6 @@
 # idk-cool-game
 
-Juego de parkour y plataformas de precisión inspirado en **Hollow Knight** y **Celeste**. Hecho con Godot.
+Juego de parkour y plataformas de precisión. Hecho con Godot.
 
 ## Jugar
 
